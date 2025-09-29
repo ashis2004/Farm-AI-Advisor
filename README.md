@@ -26,7 +26,7 @@ Crop diseases can significantly impact agricultural productivity. FarmAdvisor em
 - **Decision Tree(DT)**: 0.9
 - **Naive Bayes (SVC)**: 0.9909
 - **Support Vecotor Machine (SVM)**: 0.9795
-- **Logistic Regression **: 0.9522
+- **Logistic Regression**: 0.9522
 - **Random Forest (RF)**: 0.9909
 - **XGBoost**: 0.9931
 
