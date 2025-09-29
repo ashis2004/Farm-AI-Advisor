@@ -21,6 +21,15 @@ Crop diseases can significantly impact agricultural productivity. FarmAdvisor em
 - TensorFlow for deep learning models
 - Scikit-learn for machine learning algorithms
 
+  ### Model Accuracies
+
+- **Decision Tree(DT)**: 0.9
+- **Naive Bayes (SVC)**: 0.9909
+- **Support Vecotor Machine (SVM)**: 0.9795
+- **Logistic Regression **: 0.9522
+- **Random Forest (RF)**: 0.9909
+- **XGBoost**: 0.9931
+
 ### Installation
 
 1. Clone the repository:
