@@ -12,6 +12,12 @@ The application provides personalized fertilizer recommendations based on the ch
 
 ### 3. Disease Identification
 Crop diseases can significantly impact agricultural productivity. FarmAdvisor employs deep learning techniques to identify potential diseases affecting crops. By analyzing images of crops submitted by users, the system can detect early signs of diseases, allowing farmers to take timely preventive measures.
+## ResNet9 model 
+- **Training**: 99.4%
+- **Validation**: 99.1%
+- **Test**:99.2%
+
+
 
 ## Getting Started
 
@@ -29,6 +35,7 @@ Crop diseases can significantly impact agricultural productivity. FarmAdvisor em
 - **Logistic Regression**: 0.9522
 - **Random Forest (RF)**: 0.9909
 - **XGBoost**: 0.9931
+
 
 ### Installation
 
