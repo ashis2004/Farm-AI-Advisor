@@ -50,4 +50,5 @@ Crop diseases can significantly impact agricultural productivity. FarmAdvisor em
 3. Run the development server:
    ```bash
    python manage.py runserver
-4. Access the application in your web browser at http://localhost:8000. 
+4. Access the application in your web browser at http://localhost:8000. \
+# Ashish Patel
